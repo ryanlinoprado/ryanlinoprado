@@ -2,7 +2,7 @@
 
 - 🔭 Finalizando a faculdade de ADS em busca de minha primeira oportunidade.
 - 🌱 No momento, estou me dedicando ao C#.
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 - 🤔 Pretendo estudar e me aprofundar em Java.
 - 💬 Já estudei o básico de Python, PHP e C.
 - 🏛 Conhecimento em SQLite e MySQL
