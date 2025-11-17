@@ -9,9 +9,12 @@
 
 ---
 
-## Tecnologias
+
 
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlinoprado&show_icons=true&theme=radical)
+
+## Tecnologias
+
 <div style="display: inline_block"><br>
 <img align="center" alt="ryan-Cs" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="center" alt="ryan-Python" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -22,6 +25,8 @@
 </div>
 
 ---
+
+
 
 <br>
 
