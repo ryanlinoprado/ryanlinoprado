@@ -9,6 +9,8 @@
 
 ---
 
+Tecnologias
+
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlinoprado&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
 <img align="center" alt="ryan-Cs" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -18,6 +20,8 @@
 <img align="center" alt="ryan-mysqlite" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="center" alt="ryan-SQLite" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
+
+---
 
 <br>
 
