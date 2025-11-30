@@ -6,7 +6,7 @@
 - 🤔 Pretendo estudar e me aprofundar em Java.
 - 💬 Já estudei o básico de Python, PHP e C.
 - 🏛 Conhecimento em SQLite e MySQL
-
+- Quer conhecer um pouco mais sobre a minha pessoa? Acesse: https://ryanlinoprado.carrd.co
 ---
 
 ## Tecnologias
