@@ -9,10 +9,6 @@
 
 ---
 
-
-
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlinoprado&show_icons=true&theme=radical)
-
 ## Tecnologias
 
 <div style="display: inline_block"><br>
