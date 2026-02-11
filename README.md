@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Ryan Lino Prado!
 
-- 🔭 Finalizando a faculdade de ADS em busca de minha primeira oportunidade.
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet.
 - 🌱 No momento, estou me dedicando ao C#.
 - 🤔 Pretendo estudar e me aprofundar em Java.
-- 💬 Já estudei o básico de Python, PHP e C.
+- 💬 Já estudei HTML, CSS, JavaScript, Python, PHP e C.
 - 🏛 Conhecimento em SQLite e MySQL
 - 💭 Tenho muitos sonhos e muitos projetos para colocar em prática. Em breve!
 ---
